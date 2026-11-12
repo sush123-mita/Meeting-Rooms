@@ -2,6 +2,14 @@
 
 A web-based meeting room booking system built using Django REST Framework, PostgreSQL, and React. It allows employees to view meeting rooms, check their availability, create bookings, and manage their reservations. Administrators can manage rooms and bookings through the Django Admin panel.
 
+<img width="1890" height="916" alt="image" src="https://github.com/user-attachments/assets/f371f634-56e5-46f2-ab29-edd950b4e225" />
+
+<img width="1885" height="876" alt="image" src="https://github.com/user-attachments/assets/b665d17a-1511-4068-9d74-bc0b1c0da30d" />
+
+<img width="1903" height="896" alt="image" src="https://github.com/user-attachments/assets/989e8619-6f59-4be7-aa03-2c0fd18a32c3" />
+
+
+
 The main focus of this project is backend functionality, API development, authentication, and preventing conflicting room reservations.
 
 ## Tech Stack
